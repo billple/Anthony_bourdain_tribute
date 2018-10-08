@@ -1,0 +1,34 @@
+body {
+  box-sizing: border-box;
+  background-color: #F3F3F3;
+}
+#main {
+  background-color: white;
+  margin: auto 100px;
+}
+#img-div {
+  display: block;
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+
+}
+
+#image {
+  display: block;
+  border: none;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#title {
+  text-align: center;
+}
+
+#img-caption p {
+  text-align: center;
+}
+
+#tribute-info  {
+  padding: 0 auto;
+}
